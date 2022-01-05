@@ -1,5 +1,7 @@
 # Aprendendo Rust
 
+As anotações a seguir foram feitas a partir do livro *The Rust Programming Language* disponível no conjunto de arquivos baixados pela ferramenta de instalação ***rustup*** e acessível como arquivo HTML através do comando `rustup doc`.
+
 ## Alguns comandos
 
 Utilizando a ferramenta de gestão de sistemas e pacotes Cargo, é muito mais fácil trabalharmos com projetos Rust, pois ela nos permite organizar (códigos-fonte e dependências), checar e compilar de uma maneira fácil e objetiva em quaisquer sistemas operacionais.
